@@ -1,54 +1,67 @@
 {
   "stationList": [
     {
+      "index": "0",
       "title": "BIG 92.7 FM Bangalore",
       "url": "http://sc-bb.1.fm:8017/"
     },
     {
+      "index": "1",
       "title": "hindi evergreen hits",
       "url": "http://192.240.102.133:11454/stream/1/"
     },
     {
+      "index": "2",
       "title": "radiocity-hindi",
       "url": "http://prclive1.listenon.in:9960/;"
     },
     {
+      "index": "3",
       "title": "Radiocity-classic",
       "url": "https://prclive4.listenon.in/HindiClassics"
     },
     {
+      "index": "4",
       "title": "Radiocity-international",
       "url": "https://prclive4.listenon.in/International"
     },
     {
+      "index": "5",
       "title": "Radiocity-Electronica",
       "url": "https://prclive4.listenon.in/Electronica"
     },
     {
+      "index": "6",
       "title": "Radiocity-Bangla",
       "url": "https://prclive4.listenon.in/Classics"
     },
     {
+      "index": "7",
       "title": "Radiocity-BollywoodMix",
       "url": "https://prclive4.listenon.in/BollywoodMix"
     },
     {
+      "index": "8",
       "title": "Radio-Mirchi",
       "url": "http://peridot.streamguys.com:7150/Mirchi"
     },
     {
+      "index": "9",
       "title": "Vvidhbharati",
       "url": "https://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8"
     },
     {
+      "index": "10",
       "title": "MeethiMirchi",
       "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8"
     },
     {
+      "index": "11",
       "title": "Mirchi Mumbai",
       "url": "https://mirchimumbai-lh.akamaihd.net/i/Mirchi_Mumbai@693088/index_1_a-p.m3u8?sd=10&rebase=on"
     },
     {
+      "index": "12",
       "title": "Mirchi Delhi",
       "url": "https://mirchidelhi-lh.akamaihd.net/i/Mirchi_Delhi@693087/index_1_a-b.m3u8?sd=10&rebase=on"
     }
