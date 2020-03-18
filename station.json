@@ -2,49 +2,49 @@
   "stationList": [
     {
       "index": "0",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/big-92-7.png",
       "title": "BIG 92.7 FM Bangalore",
       "url": "http://sc-bb.1.fm:8017/"
     },
     {
       "index": "1",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/non-stop-hindi.png",
       "title": "hindi evergreen hits",
       "url": "http://192.240.102.133:11454/stream/1/"
     },
     {
       "index": "2",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/planet-city-hindi.png",
       "title": "radiocity-hindi",
       "url": "http://prclive1.listenon.in:9960/;"
     },
     {
       "index": "3",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/sai-global-harmony.png",
       "title": "Radiocity-classic",
       "url": "https://prclive4.listenon.in/HindiClassics"
     },
     {
       "index": "4",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/radio.png",
       "title": "Radiocity-international",
       "url": "https://prclive4.listenon.in/International"
     },
     {
       "index": "5",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/radio.png",
       "title": "Radiocity-Electronica",
       "url": "https://prclive4.listenon.in/Electronica"
     },
     {
       "index": "6",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/radio.png",
       "title": "Radiocity-Bangla",
       "url": "https://prclive4.listenon.in/Classics"
     },
     {
       "index": "7",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/bollywood-radio.png",
       "title": "Radiocity-BollywoodMix",
       "url": "https://prclive4.listenon.in/BollywoodMix"
     },
@@ -56,13 +56,13 @@
     },
     {
       "index": "9",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/air-vividh.png",
       "title": "Vvidhbharati",
       "url": "https://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8"
     },
     {
       "index": "10",
-      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
+      "image": "https://cdn.webrad.io/images/logos/onlineradios-in/meet-mirchi.png",
       "title": "MeethiMirchi",
       "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8"
     },
