@@ -17,7 +17,7 @@
       "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
       "title": "Mirchi Delhi",
       "url": "https://mirchidelhi-lh.akamaihd.net/i/Mirchi_Delhi@693087/index_1_a-b.m3u8?sd=10&rebase=on"
-    }
+    },
     {
       "index": "3",
       "image": "https://cdn.webrad.io/images/logos/onlineradios-in/big-92-7.png",
@@ -67,7 +67,7 @@
       "url": "https://prclive4.listenon.in/BollywoodMix"
     },
     {
-      "index": 11",
+      "index": "11",
       "image": "https://cdn.webrad.io/images/logos/onlineradios-in/mirchi-fm.png",
       "title": "Radio-Mirchi",
       "url": "http://peridot.streamguys.com:7150/Mirchi"
@@ -77,6 +77,6 @@
       "image": "https://cdn.webrad.io/images/logos/onlineradios-in/air-vividh.png",
       "title": "Vvidhbharati",
       "url": "https://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8"
-    },
+    }
   ]
 }
