@@ -70,7 +70,7 @@
   },
     {
     "type": "TEXT",
-    "title": "Facts about Coronavirus\n",
+    "title": "Facts about Coronavirus",
     "data":  [
         "Spreads through air and direct contact with infected people\n",
         "Infects humans of all ages and not only a particular age group\n",
@@ -81,7 +81,7 @@
   },
     {
     "type": "TEXT",
-    "title": "Myths\n",
+    "title": "Myths",
     "data":  [
         "Exposing yourself to the sun or to temperatures higher than 25º C prevents from corona virus infection\n",
         "Drinking alcohol protects you against the corona virus\n",
@@ -129,7 +129,7 @@
   },
    {
     "type": "TEXT",
-    "title": "Our heartfelt gratitude towards\n",
+    "title": "Our heartfelt gratitude towards",
     "data":  [
         "Doctors\n",
         "Nurses\n",
@@ -146,10 +146,10 @@
     "type": "TEXT",
     "title": "About Us",
     "data":  [
-        "Name - Vishal Kumar Singhvi\n",
-        "Profession - Android developer\n",
-        "Linkedin - https://www.linkedin.com/in/vishalkumarsinghvi\n",
-        "Github -  https://github.com/vishalkumarsinghvi\n"
+        "&#8226; Name - Vishal Kumar Singhvi\n",
+        "&#8226; Profession - Android developer\n",
+        "&#8226; Linkedin - https://www.linkedin.com/in/vishalkumarsinghvi\n",
+        "&#8226; Github -  https://github.com/vishalkumarsinghvi\n"
     ]
   }
   
