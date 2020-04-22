@@ -76,18 +76,18 @@
     "type": "TEXT",
     "title": "Facts about Coronavirus",
     "data":  [
-        "\u2022 Spreads through air and direct contact with infected people\n",
-        "\u2022 Infects humans of all ages and not only a particular age group\n",
+        "\u2022 Spreads through air and direct contact with infected\n   people\n",
+        "\u2022 Infects humans of all ages and not only a particular age\n    group\n",
         "\u2022 Takes atleast 10-14 days to show its symptoms\n",
         "\u2022 Does not affect animals\n",
-        "\u2022 Can also be transmitted in areas with hot and humid climates\n"
+        "\u2022 Can also be transmitted in areas with hot and humid\n    climates\n"
     ]
   },
     {
     "type": "TEXT",
     "title": "Myths",
     "data":  [
-        "\u2022 Exposing yourself to the sun or to temperatures higher than 25º C prevents from corona virus infection\n",
+        "\u2022 Exposing yourself to the sun or to temperatures higher\n    than 25º C prevents from corona virus infection\n",
         "\u2022 Drinking alcohol protects you against the corona virus\n",
         "\u2022 Cats and dogs spreads corona virus\n",
         "\u2022 Antibiotics can kill corona virus\n",
@@ -143,7 +143,7 @@
         "\u2022 General shop owners\n",
         "\u2022 Workers in power plant, cold storage, petrol pumps\n",
         "\u2022 Telecommunications, internet services, broadcasting,\n   cable and other service providers\n",
-        "\u2022 For selflessly serving people throughout the globe during\n   this critical time. When the whole world is suffering\n  these people are working tirelessly for our welfare\n"
+        "\u2022 For selflessly serving people throughout the globe during\n   this critical time. When the whole world is suffering\n   these people are working tirelessly for our welfare\n"
     ]
   },
    {
