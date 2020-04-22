@@ -1,0 +1,156 @@
+[
+  {
+    "type": "IMAGE",
+    "title": "Images safe",
+    "data":  [
+        "https://www.standunited.in/wp-content/uploads/2020/04/stay-home-stay-safe-02.jpg",
+        "https://www.standunited.in/wp-content/uploads/2020/04/eafight-the-virus-01-01.jpg"
+    ]
+  },
+  {
+    "type": "VIDEO",
+    "title": "Youtube Video",
+    "data":  [
+        "https://www.youtube.com/watch?v=BtN-goy9VOY"
+    ]
+  }, 
+  {
+    "type": "TEXT",
+    "title": "Coronavirus Helpline Number",
+    "data":  [
+        "1075",
+        "+91-11-23978046"
+    ]
+  },
+   {
+    "type": "IMAGE",
+    "title": "Symptoms",
+    "data":  [
+        "https://www.standunited.in/wp-content/uploads/2020/04/cough.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/running-nose.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/high-fever.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/trouble-breathing.png"
+    ], 
+    "dataTitle":  [
+        "Cough",
+        "Cold",
+        "High Fever",
+        "Respiratory disorder"
+    ]
+  },
+   {
+    "type": "IMAGE",
+    "title": "Do’s",
+    "data":  [
+        "https://www.standunited.in/wp-content/uploads/2020/04/dos4.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/dos1.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/dos3.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/dos2.png"
+    ], 
+    "dataTitle":  [
+        "Wear face masks and use hand gloves",
+        "Cover your face while sneezing or coughing",
+        "Wash your hands regularly",
+        "Stay at home"
+    ]
+  },
+   {
+    "type": "IMAGE",
+    "title": "Don’ts",
+    "data":  [
+        "https://www.standunited.in/wp-content/uploads/2020/04/face-and-mouth-07.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/crowd.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/sneeze.png"
+    ], 
+    "dataTitle":  [
+        "Do not touch face and mouth",
+        "Do not form crowd",
+        "Do not sneeze without covering your mouth"
+    ]
+  },
+    {
+    "type": "TEXT",
+    "title": "Facts about Coronavirus",
+    "data":  [
+        "Spreads through air and direct contact with infected people",
+        "Infects humans of all ages and not only a particular age group",
+        "Takes atleast 10-14 days to show its symptoms",
+        "Does not affect animals",
+        "Can also be transmitted in areas with hot and humid climates"
+    ]
+  },
+    {
+    "type": "TEXT",
+    "title": "Myths",
+    "data":  [
+        "Exposing yourself to the sun or to temperatures higher than 25º C prevents from corona virus infection",
+        "Drinking alcohol protects you against the corona virus",
+        "Cats and dogs spreads corona virus",
+        "Antibiotics can kill corona virus",
+        "The outbreak began because people drank bat soup"
+    ]
+  },
+  {
+    "type": "VIDEO",
+    "title": "Youtube Video",
+    "data":  [
+        "https://www.youtube.com/watch?v=wh-sRmTWGTw"
+    ]
+  }, 
+  {
+    "type": "SLIDER",
+    "title": "ACTIVITES",
+    "data":  [
+        "https://www.standunited.in/wp-content/uploads/2020/04/self-help-books.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/Art-and-craft.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/story-1.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/cooking.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/Mysterious-stories.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/lego.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/english.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/Scheduling.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/household-chores.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/coding.png",
+        "https://www.standunited.in/wp-content/uploads/2020/04/Yoga.png"
+    ], 
+    "dataTitle":  [
+        "1.Read self-help books.",
+        "2.Art and craft.",
+        "3.Share your childhood stories with kids.",
+        "4.Learn cooking.",
+        "5.Read about mysterious story.",
+        "6.Bring out the Lego and let your mind get creative.",
+        "7.Learn new language.",
+        "8.Practice scheduling your work.",
+        "9.Help your family in daily chores.",
+        "10.Learn coding.",
+        "11.Practice meditation, yoga or exercise"
+    ]
+  },
+   {
+    "type": "TEXT",
+    "title": "Facts about Coronavirus",
+    "data":  [
+        "Doctors",
+        "Nurses",
+        "Scientists",
+        "Police officers",
+        "Medical shop owners",
+        "General shop owners",
+        "Workers in power plant, cold storage, petrol pumps",
+        "Telecommunications, internet services, broadcasting, cable and other service providers",
+        "For selflessly serving people throughout the globe during this critical time. When the whole world is suffering these people are working tirelessly for our welfare"
+    ]
+  },
+   {
+    "type": "TEXT",
+    "title": "About Us",
+    "data":  [
+        "Name -Vishal Kumar Singhvi",
+        "Profession - Android developer",
+        "Linkedin - https://www.linkedin.com/in/vishalkumarsinghvi",
+        "Github -  https://github.com/vishalkumarsinghvi"
+    ]
+  }
+  
+]
