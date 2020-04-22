@@ -146,10 +146,10 @@
     "type": "TEXT",
     "title": "About Us",
     "data":  [
-        "&#8226; Name - Vishal Kumar Singhvi\n",
-        "&#8226; Profession - Android developer\n",
-        "&#8226; Linkedin - https://www.linkedin.com/in/vishalkumarsinghvi\n",
-        "&#8226; Github -  https://github.com/vishalkumarsinghvi\n"
+        "\u2022 Name - Vishal Kumar Singhvi\n",
+        "\u2022 Profession - Android developer\n",
+        "\u2022 Linkedin - https://www.linkedin.com/in/vishalkumarsinghvi\n",
+        "\u2022 Github -  https://github.com/vishalkumarsinghvi\n"
     ]
   }
   
