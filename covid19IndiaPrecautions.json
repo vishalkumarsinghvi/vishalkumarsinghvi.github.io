@@ -1,10 +1,14 @@
 [
   {
-    "type": "IMAGE",
+    "type": "SLIDER",
     "title": "Images safe",
     "data":  [
         "https://www.standunited.in/wp-content/uploads/2020/04/stay-home-stay-safe-02.jpg",
         "https://www.standunited.in/wp-content/uploads/2020/04/eafight-the-virus-01-01.jpg"
+    ],
+    "dataTitle":  [
+        "Stay home stay safe",
+        "Eafight the virus"
     ]
   },
   {
@@ -23,7 +27,7 @@
     ]
   },
    {
-    "type": "IMAGE",
+    "type": "SLIDER",
     "title": "Symptoms",
     "data":  [
         "https://www.standunited.in/wp-content/uploads/2020/04/cough.png",
@@ -39,7 +43,7 @@
     ]
   },
    {
-    "type": "IMAGE",
+    "type": "SLIDER",
     "title": "Do’s",
     "data":  [
         "https://www.standunited.in/wp-content/uploads/2020/04/dos4.png",
@@ -55,7 +59,7 @@
     ]
   },
    {
-    "type": "IMAGE",
+    "type": "SLIDER",
     "title": "Don’ts",
     "data":  [
         "https://www.standunited.in/wp-content/uploads/2020/04/face-and-mouth-07.png",
@@ -72,22 +76,22 @@
     "type": "TEXT",
     "title": "Facts about Coronavirus",
     "data":  [
-        "Spreads through air and direct contact with infected people\n",
-        "Infects humans of all ages and not only a particular age group\n",
-        "Takes atleast 10-14 days to show its symptoms\n",
-        "Does not affect animals\n",
-        "Can also be transmitted in areas with hot and humid climates\n"
+        "\u2022 Spreads through air and direct contact with infected people\n",
+        "\u2022 Infects humans of all ages and not only a particular age group\n",
+        "\u2022 Takes atleast 10-14 days to show its symptoms\n",
+        "\u2022 Does not affect animals\n",
+        "\u2022 Can also be transmitted in areas with hot and humid climates\n"
     ]
   },
     {
     "type": "TEXT",
     "title": "Myths",
     "data":  [
-        "Exposing yourself to the sun or to temperatures higher than 25º C prevents from corona virus infection\n",
-        "Drinking alcohol protects you against the corona virus\n",
-        "Cats and dogs spreads corona virus\n",
-        "Antibiotics can kill corona virus\n",
-        "The outbreak began because people drank bat soup\n"
+        "\u2022 Exposing yourself to the sun or to temperatures higher than 25º C prevents from corona virus infection\n",
+        "\u2022 Drinking alcohol protects you against the corona virus\n",
+        "\u2022 Cats and dogs spreads corona virus\n",
+        "\u2022 Antibiotics can kill corona virus\n",
+        "\u2022 The outbreak began because people drank bat soup\n"
     ]
   },
   {
@@ -131,15 +135,15 @@
     "type": "TEXT",
     "title": "Our heartfelt gratitude towards",
     "data":  [
-        "Doctors\n",
-        "Nurses\n",
-        "Scientists\n",
-        "Police officers\n",
-        "Medical shop owners\n",
-        "General shop owners\n",
-        "Workers in power plant, cold storage, petrol pumps\n",
-        "Telecommunications, internet services, broadcasting, cable and other service providers\n",
-        "For selflessly serving people throughout the globe during this critical time. When the whole world is suffering these people are working tirelessly for our welfare\n"
+        "\u2022 Doctors\n",
+        "\u2022 Nurses\n",
+        "\u2022 Scientists\n",
+        "\u2022 Police officers\n",
+        "\u2022 Medical shop owners\n",
+        "\u2022 General shop owners\n",
+        "\u2022 Workers in power plant, cold storage, petrol pumps\n",
+        "\u2022 Telecommunications, internet services, broadcasting, cable and other service providers\n",
+        "\u2022 For selflessly serving people throughout the globe during this critical time. When the whole world is suffering these people are working tirelessly for our welfare\n"
     ]
   },
    {
