@@ -15,7 +15,8 @@
     "type": "VIDEO",
     "title": "Youtube Video",
     "data":  [
-        "https://www.youtube.com/embed/BtN-goy9VOY"
+        "BtN-goy9VOY",
+        "wh-sRmTWGTw",
     ]
   }, 
   {
@@ -92,13 +93,6 @@
         "\u2022 Cats and dogs spreads corona virus\n",
         "\u2022 Antibiotics can kill corona virus\n",
         "\u2022 The outbreak began because people drank bat soup\n"
-    ]
-  },
-  {
-    "type": "VIDEO",
-    "title": "Youtube Video",
-    "data":  [
-        "https://www.youtube.com/embed/wh-sRmTWGTw"
     ]
   }, 
   {
