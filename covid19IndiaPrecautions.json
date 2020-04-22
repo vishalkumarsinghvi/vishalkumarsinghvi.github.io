@@ -18,8 +18,8 @@
     "type": "TEXT",
     "title": "Coronavirus Helpline Number",
     "data":  [
-        "1075",
-        "+91-11-23978046"
+        "1075\n",
+        "+91-11-23978046\n"
     ]
   },
    {
@@ -70,24 +70,24 @@
   },
     {
     "type": "TEXT",
-    "title": "Facts about Coronavirus",
+    "title": "Facts about Coronavirus\n",
     "data":  [
-        "Spreads through air and direct contact with infected people",
-        "Infects humans of all ages and not only a particular age group",
-        "Takes atleast 10-14 days to show its symptoms",
-        "Does not affect animals",
-        "Can also be transmitted in areas with hot and humid climates"
+        "Spreads through air and direct contact with infected people\n",
+        "Infects humans of all ages and not only a particular age group\n",
+        "Takes atleast 10-14 days to show its symptoms\n",
+        "Does not affect animals\n",
+        "Can also be transmitted in areas with hot and humid climates\n"
     ]
   },
     {
     "type": "TEXT",
-    "title": "Myths",
+    "title": "Myths\n",
     "data":  [
-        "Exposing yourself to the sun or to temperatures higher than 25º C prevents from corona virus infection",
-        "Drinking alcohol protects you against the corona virus",
-        "Cats and dogs spreads corona virus",
-        "Antibiotics can kill corona virus",
-        "The outbreak began because people drank bat soup"
+        "Exposing yourself to the sun or to temperatures higher than 25º C prevents from corona virus infection\n",
+        "Drinking alcohol protects you against the corona virus\n",
+        "Cats and dogs spreads corona virus\n",
+        "Antibiotics can kill corona virus\n",
+        "The outbreak began because people drank bat soup\n"
     ]
   },
   {
@@ -129,27 +129,27 @@
   },
    {
     "type": "TEXT",
-    "title": "Facts about Coronavirus",
+    "title": "Our heartfelt gratitude towards\n",
     "data":  [
-        "Doctors",
-        "Nurses",
-        "Scientists",
-        "Police officers",
-        "Medical shop owners",
-        "General shop owners",
-        "Workers in power plant, cold storage, petrol pumps",
-        "Telecommunications, internet services, broadcasting, cable and other service providers",
-        "For selflessly serving people throughout the globe during this critical time. When the whole world is suffering these people are working tirelessly for our welfare"
+        "Doctors\n",
+        "Nurses\n",
+        "Scientists\n",
+        "Police officers\n",
+        "Medical shop owners\n",
+        "General shop owners\n",
+        "Workers in power plant, cold storage, petrol pumps\n",
+        "Telecommunications, internet services, broadcasting, cable and other service providers\n",
+        "For selflessly serving people throughout the globe during this critical time. When the whole world is suffering these people are working tirelessly for our welfare\n"
     ]
   },
    {
     "type": "TEXT",
     "title": "About Us",
     "data":  [
-        "Name -Vishal Kumar Singhvi",
-        "Profession - Android developer",
-        "Linkedin - https://www.linkedin.com/in/vishalkumarsinghvi",
-        "Github -  https://github.com/vishalkumarsinghvi"
+        "Name - Vishal Kumar Singhvi\n",
+        "Profession - Android developer\n",
+        "Linkedin - https://www.linkedin.com/in/vishalkumarsinghvi\n",
+        "Github -  https://github.com/vishalkumarsinghvi\n"
     ]
   }
   
