@@ -1,5 +1,14 @@
 [
   {
+    "type": "TEXT",
+    "title": "COVID-19 Coronavirus - Symptoms",
+    "data":  [
+        "\u2022 There’s currently no vaccine to prevent coronavirus\n    disease (COVID-19).\n",
+        "\u2022 If you develop a fever, cough, and have difficulty\n    breathing, promptly seek medical care.\n",
+        "\u2022 Call in advance and tell your health provider as\n    soon as possible for medical advice.\n"
+    ]
+  },
+   {
     "type": "SLIDER",
     "title": "Images safe",
     "data":  [
@@ -13,10 +22,23 @@
   },
   {
     "type": "VIDEO",
-    "title": "Youtube Video",
+    "title": "The Coronavirus Explained & What You Should Do",
     "data":  [
-        "BtN-goy9VOY",
+        "BtN-goy9VOY"
+    ]
+  }, 
+   {
+    "type": "VIDEO",
+    "title": "Muskurayega India | Official Video | An initiative by Jjust Music and Cape of Good Films",
+    "data":  [
         "wh-sRmTWGTw"
+    ]
+  }, 
+     {
+    "type": "VIDEO",
+    "title": "What can people do to protect themselves and others from getting the new coronavirus?",
+    "data":  [
+      "bPITHEiFWLc"
     ]
   }, 
   {
