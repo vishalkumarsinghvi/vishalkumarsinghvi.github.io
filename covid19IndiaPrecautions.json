@@ -10,14 +10,14 @@
   },
    {
     "type": "SLIDER",
-    "title": "Images safe",
+    "title": "Stay safe stay home",
     "data":  [
         "https://www.standunited.in/wp-content/uploads/2020/04/stay-home-stay-safe-02.jpg",
         "https://www.standunited.in/wp-content/uploads/2020/04/eafight-the-virus-01-01.jpg"
     ],
     "dataTitle":  [
         "Stay home stay safe",
-        "Eafight the virus"
+        "Fight the virus"
     ]
   },
   {
@@ -41,14 +41,6 @@
       "bPITHEiFWLc"
     ]
   }, 
-  {
-    "type": "TEXT",
-    "title": "Coronavirus Helpline Number",
-    "data":  [
-        "1075\n",
-        "+91-11-23978046\n"
-    ]
-  },
    {
     "type": "SLIDER",
     "title": "Symptoms",
@@ -160,6 +152,14 @@
         "\u2022 Workers in power plant, cold storage, petrol pumps\n",
         "\u2022 Telecommunications, internet services, broadcasting,\n   cable and other service providers\n",
         "\u2022 For selflessly serving people throughout the globe during\n   this critical time. When the whole world is suffering\n   these people are working tirelessly for our welfare\n"
+    ]
+  },
+    {
+    "type": "TEXT",
+    "title": "Coronavirus Helpline Number",
+    "data":  [
+        "\u2022 \uD83D\uDCF1 1075\n",
+        "\u2022 \uD83D\uDCF1 +91-11-23978046\n"
     ]
   },
    {
