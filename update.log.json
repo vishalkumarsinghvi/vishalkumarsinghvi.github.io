@@ -1,74 +1,146 @@
 {
-  "books": [
-    {
-      "id": 1,
-      "title": "The Hunger Games",
-      "author": "Suzanne Collins",
-      "description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
-    },
-    {
-      "id": 2,
-      "title": "The Hunger Games",
-      "author": "Suzanne Collins",
-      "description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
-    },
-    {
-      "id": 3,
-      "title": "The Da Vinci Code",
-      "author": "Dan Brown",
-      "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
-    },
-    {
-      "id": 4,
-      "title": "The Da Vinci Code",
-      "author": "Dan Brown",
-      "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
-    },
-    {
-      "id": 5,
-      "title": "The Da Vinci Code",
-      "author": "Dan Brown",
-      "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
-    },
-    {
-      "id": 6,
-      "title": "The Hunger Games",
-      "author": "Suzanne Collins",
-      "description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
-    },
-    {
-      "id": 7,
-      "title": "The Hunger Games",
-      "author": "Suzanne Collins",
-      "description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
-    },
-    {
-      "id": 8,
-      "title": "The Da Vinci Code",
-      "author": "Dan Brown",
-      "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
-    },
-    {
-      "id": 9,
-      "title": "The Da Vinci Code",
-      "author": "Dan Brown",
-      "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
-    },
-    {
-      "id": 10,
-      "title": "The Da Vinci Code",
-      "author": "Dan Brown",
-      "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
-      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
-    }
-  ]
+	"booksSciFi": [
+		{
+			"id": 1,
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins",
+			"description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
+		},
+		{
+			"id": 2,
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins",
+			"description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
+		},
+		{
+			"id": 3,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 4,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 5,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 6,
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins",
+			"description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
+		},
+		{
+			"id": 7,
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins",
+			"description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
+		},
+		{
+			"id": 8,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 9,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 10,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		}
+	],
+	"booksHorror": [
+		{
+			"id": 1,
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins",
+			"description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
+		},
+		{
+			"id": 2,
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins",
+			"description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
+		},
+		{
+			"id": 3,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 4,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 5,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 6,
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins",
+			"description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
+		},
+		{
+			"id": 7,
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins",
+			"description": "A dystopian novel set in a post-apocalyptic nation where children are forced to participate in a televised death match.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Hunger_Games_cover.jpg/220px-The_Hunger_Games_cover.jpg"
+		},
+		{
+			"id": 8,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 9,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		},
+		{
+			"id": 10,
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown",
+			"description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum in Paris.",
+			"cover_image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/DaVinciCode.jpg/220px-DaVinciCode.jpg"
+		}
+	]
 }
